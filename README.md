@@ -1,4 +1,4 @@
-html-css-JavaScript
+CURSO DE HTML E CSS
 
 Repositório para estudos em HTML-CSS-JavaScript
 
